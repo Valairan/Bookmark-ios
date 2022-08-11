@@ -39,6 +39,7 @@
 				1CAF255D28A4D40A00B8F668 /* Products */,
 			);
 			sourceTree = "<group>";
+			wrapsLines = 0;
 		};
 		1CAF255D28A4D40A00B8F668 /* Products */ = {
 			isa = PBXGroup;
